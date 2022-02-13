@@ -11,7 +11,7 @@
   "author": "Your Name Here",
   "license": "MIT",
   "dependencies": {
-    "ajv": "6.12.0",
+    "ajv": "6.12.3",
     "axios": "^0.19.2",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
